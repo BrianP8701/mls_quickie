@@ -2,7 +2,7 @@ We have a CSV file of MLS data from California starting in 2023 with 316,908 uni
 
 The goal, as Keith says, is to "find the neighborhood (or two) with the largest spread and just focus on those two neighborhoods and go buy ‘em all."
 
-Plan:
+Simplified Plan:
 
 1. Geographical Clustering by lat/long
 First, we need to group the properties into clusters based on their location using DBSCAN and K-means algorithms.
@@ -16,4 +16,3 @@ Now that we have our clusters, we calculate the price spread using the Interquar
 4. Rank the clusters by price spread
 Finally, we rank the clusters based on their price spread.
 
-Done.

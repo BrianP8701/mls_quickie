@@ -20,7 +20,20 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1>Sell Price Analysis and Map</h1>
+        <h1>Keith's Price Spread Analysis</h1>
+        <div class="text-center mb-4 mt-4">
+            <div class="text-start d-inline-block">
+                <p>We have a CSV file of MLS data from California starting in 2023 with 316,908 unique properties.</p>
+                <p>The goal, as Keith says, is to "find the neighborhood (or two) with the largest spread and just focus on those two neighborhoods and go buy ‘em all."</p>
+                <p><strong>Simplified Plan:</strong></p>
+                <ol>
+                    <li>Geographical Clustering by lat/long</li>
+                    <li>Attribute Clustering blind to price</li>
+                    <li>Calculate price spread of each cluster</li>
+                    <li>Rank the clusters by price spread</li>
+                </ol>
+            </div>
+        </div>
         <div id="map1" class="map-container"></div>
         <div id="analysis-container"></div>
     </div>
