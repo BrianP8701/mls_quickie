@@ -1,0 +1,3494 @@
+{
+    "ML81969553": {
+        "neighborhood": "St. Leo's",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1082",
+                    "short_name": "1082",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Luther Avenue",
+                    "short_name": "Luther Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "St. Leo's",
+                    "short_name": "St. Leo's",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95126",
+                    "short_name": "95126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3012",
+                    "short_name": "3012",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41031445": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "APT 8",
+                    "short_name": "APT 8",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "3355",
+                    "short_name": "3355",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor Parkway",
+                    "short_name": "Rossmoor Pkwy",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3825",
+                    "short_name": "3825",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41044714": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "APT 4",
+                    "short_name": "APT 4",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "2716",
+                    "short_name": "2716",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tice Creek Drive",
+                    "short_name": "Tice Creek Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3271",
+                    "short_name": "3271",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81958484": {
+        "neighborhood": "Central San Jose",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "966",
+                    "short_name": "966",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Schiele Avenue",
+                    "short_name": "Schiele Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central San Jose",
+                    "short_name": "Central San Jose",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95126",
+                    "short_name": "95126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2423",
+                    "short_name": "2423",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81963211": {
+        "neighborhood": "Willow Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "2601",
+                    "short_name": "2601",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Thrasher Lane",
+                    "short_name": "Thrasher Ln",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Willow Glen",
+                    "short_name": "Willow Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95125",
+                    "short_name": "95125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4870",
+                    "short_name": "4870",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81960114": {
+        "neighborhood": "Naglee",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "420",
+                    "short_name": "420",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South 15th Street",
+                    "short_name": "S 15th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Naglee",
+                    "short_name": "Naglee",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95112",
+                    "short_name": "95112",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2239",
+                    "short_name": "2239",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81942790": {
+        "neighborhood": "Cory",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "2451",
+                    "short_name": "2451",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cory Avenue",
+                    "short_name": "Cory Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Cory",
+                    "short_name": "Cory",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95128",
+                    "short_name": "95128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1310",
+                    "short_name": "1310",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81941812": {
+        "neighborhood": "Willow Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1983",
+                    "short_name": "1983",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Creek Drive",
+                    "short_name": "Creek Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Willow Glen",
+                    "short_name": "Willow Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95125",
+                    "short_name": "95125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1845",
+                    "short_name": "1845",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41037318": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "APT 1",
+                    "short_name": "APT 1",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "1209",
+                    "short_name": "1209",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Ptarmigan Drive",
+                    "short_name": "Ptarmigan Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3751",
+                    "short_name": "3751",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41037083": {
+        "neighborhood": "Trestle Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "859",
+                    "short_name": "859",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rosemount Road",
+                    "short_name": "Rosemount Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Trestle Glen",
+                    "short_name": "Trestle Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94610",
+                    "short_name": "94610",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2408",
+                    "short_name": "2408",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41034457": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "APT 2",
+                    "short_name": "APT 2",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "2101",
+                    "short_name": "2101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tice Creek Drive",
+                    "short_name": "Tice Creek Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2996",
+                    "short_name": "2996",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81930117": {
+        "neighborhood": "Saint Elizabeth",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1553",
+                    "short_name": "1553",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "33rd Avenue",
+                    "short_name": "33rd Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Saint Elizabeth",
+                    "short_name": "Saint Elizabeth",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94601",
+                    "short_name": "94601",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3015",
+                    "short_name": "3015",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41064326": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "UNIT 7",
+                    "short_name": "UNIT 7",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "2017",
+                    "short_name": "2017",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Pine Knoll Drive",
+                    "short_name": "Pine Knoll Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2149",
+                    "short_name": "2149",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41063488": {
+        "neighborhood": "Rossmoor",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "APT 8",
+                    "short_name": "APT 8",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "3217",
+                    "short_name": "3217",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Golden Rain Road",
+                    "short_name": "Golden Rain Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rossmoor",
+                    "short_name": "Rossmoor",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Walnut Creek",
+                    "short_name": "Walnut Creek",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Contra Costa County",
+                    "short_name": "Contra Costa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94595",
+                    "short_name": "94595",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1958",
+                    "short_name": "1958",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81916985": {
+        "neighborhood": "Penitencia Creek",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1054",
+                    "short_name": "1054",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Wilsham Drive",
+                    "short_name": "Wilsham Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Penitencia Creek",
+                    "short_name": "Penitencia Creek",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95132",
+                    "short_name": "95132",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2937",
+                    "short_name": "2937",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41012763": {
+        "neighborhood": "Shafter",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "5351",
+                    "short_name": "5351",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lawton Avenue",
+                    "short_name": "Lawton Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Shafter",
+                    "short_name": "Shafter",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94618",
+                    "short_name": "94618",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1107",
+                    "short_name": "1107",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41053869": {
+        "neighborhood": "Millsmont",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "6474",
+                    "short_name": "6474",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Outlook Avenue",
+                    "short_name": "Outlook Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Millsmont",
+                    "short_name": "Millsmont",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94605",
+                    "short_name": "94605",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2126",
+                    "short_name": "2126",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81917442": {
+        "neighborhood": "Rose Garden",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1885",
+                    "short_name": "1885",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Naglee Avenue",
+                    "short_name": "Naglee Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rose Garden",
+                    "short_name": "Rose Garden",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95126",
+                    "short_name": "95126",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1935",
+                    "short_name": "1935",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41041851": {
+        "neighborhood": "Arroyo Viejo",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "7856",
+                    "short_name": "7856",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lockwood Street",
+                    "short_name": "Lockwood St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Arroyo Viejo",
+                    "short_name": "Arroyo Viejo",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94621",
+                    "short_name": "94621",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2636",
+                    "short_name": "2636",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41043680": {
+        "neighborhood": "Rockridge",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "5648",
+                    "short_name": "5648",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Oak Grove Avenue",
+                    "short_name": "Oak Grove Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Rockridge",
+                    "short_name": "Rockridge",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94618",
+                    "short_name": "94618",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1243",
+                    "short_name": "1243",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41049535": {
+        "neighborhood": "Redwood Heights",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "4198",
+                    "short_name": "4198",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Huntington Street",
+                    "short_name": "Huntington St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Redwood Heights",
+                    "short_name": "Redwood Heights",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94619",
+                    "short_name": "94619",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2958",
+                    "short_name": "2958",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81917059": {
+        "neighborhood": "Willow Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "2951",
+                    "short_name": "2951",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cottle Avenue",
+                    "short_name": "Cottle Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Willow Glen",
+                    "short_name": "Willow Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95125",
+                    "short_name": "95125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4115",
+                    "short_name": "4115",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81964424": {
+        "neighborhood": "Central San Jose",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "563",
+                    "short_name": "563",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North 4th Street",
+                    "short_name": "N 4th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Central San Jose",
+                    "short_name": "Central San Jose",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95112",
+                    "short_name": "95112",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5310",
+                    "short_name": "5310",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41018983": {
+        "neighborhood": "Forestland",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1655",
+                    "short_name": "1655",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Arrowhead Drive",
+                    "short_name": "Arrowhead Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Forestland",
+                    "short_name": "Forestland",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94611",
+                    "short_name": "94611",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1444",
+                    "short_name": "1444",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41017636": {
+        "neighborhood": "Reservoir Hills",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "2726",
+                    "short_name": "2726",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "25th Avenue",
+                    "short_name": "25th Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Reservoir Hills",
+                    "short_name": "Reservoir Hills",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94601",
+                    "short_name": "94601",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1337",
+                    "short_name": "1337",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81965912": {
+        "neighborhood": "Northside",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "320",
+                    "short_name": "320",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North 17th Street",
+                    "short_name": "N 17th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Northside",
+                    "short_name": "Northside",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95112",
+                    "short_name": "95112",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1848",
+                    "short_name": "1848",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41040358": {
+        "neighborhood": "Trestle Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1418",
+                    "short_name": "1418",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Barrows Road",
+                    "short_name": "Barrows Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Trestle Glen",
+                    "short_name": "Trestle Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94610",
+                    "short_name": "94610",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2535",
+                    "short_name": "2535",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41047493": {
+        "neighborhood": "Golden Gate",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1119",
+                    "short_name": "1119",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "54th Street",
+                    "short_name": "54th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Golden Gate",
+                    "short_name": "Golden Gate",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94608",
+                    "short_name": "94608",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2635",
+                    "short_name": "2635",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "SF424039179": {
+        "neighborhood": "Sequoyah",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "3051",
+                    "short_name": "3051",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Broadmoor View",
+                    "short_name": "Broadmoor View",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sequoyah",
+                    "short_name": "Sequoyah",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94605",
+                    "short_name": "94605",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5311",
+                    "short_name": "5311",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81939172": {
+        "neighborhood": "West Valley",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "924",
+                    "short_name": "924",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Baywood Avenue",
+                    "short_name": "S Baywood Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "West Valley",
+                    "short_name": "West Valley",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95128",
+                    "short_name": "95128",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3310",
+                    "short_name": "3310",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81968695": {
+        "neighborhood": "Northside",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "851",
+                    "short_name": "851",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "North 15th Street",
+                    "short_name": "N 15th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Northside",
+                    "short_name": "Northside",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95112",
+                    "short_name": "95112",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1540",
+                    "short_name": "1540",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41047447": {
+        "neighborhood": "Upper Dimond",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "3375",
+                    "short_name": "3375",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kiwanis Street",
+                    "short_name": "Kiwanis St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upper Dimond",
+                    "short_name": "Upper Dimond",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94602",
+                    "short_name": "94602",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4005",
+                    "short_name": "4005",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41029096": {
+        "neighborhood": "Oakmore",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "2340",
+                    "short_name": "2340",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bywood Drive",
+                    "short_name": "Bywood Dr",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oakmore",
+                    "short_name": "Oakmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94602",
+                    "short_name": "94602",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2013",
+                    "short_name": "2013",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81973064": {
+        "neighborhood": "Los Gatos Memorial",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "15316",
+                    "short_name": "15316",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Cooper Avenue",
+                    "short_name": "Cooper Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Los Gatos Memorial",
+                    "short_name": "Los Gatos Memorial",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95124",
+                    "short_name": "95124",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5406",
+                    "short_name": "5406",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81920094": {
+        "neighborhood": "Willow Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1791",
+                    "short_name": "1791",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Kirkland Avenue",
+                    "short_name": "Kirkland Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Willow Glen",
+                    "short_name": "Willow Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95125",
+                    "short_name": "95125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1873",
+                    "short_name": "1873",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81930200": {
+        "neighborhood": "Evergreen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "4229",
+                    "short_name": "4229",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Littleworth Way",
+                    "short_name": "Littleworth Way",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Evergreen",
+                    "short_name": "Evergreen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95135",
+                    "short_name": "95135",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1123",
+                    "short_name": "1123",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41057600": {
+        "neighborhood": "Maxwell Park",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "3033",
+                    "short_name": "3033",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Modesto Avenue",
+                    "short_name": "Modesto Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Maxwell Park",
+                    "short_name": "Maxwell Park",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94619",
+                    "short_name": "94619",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3337",
+                    "short_name": "3337",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81937838": {
+        "neighborhood": "East Hills and White",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "128",
+                    "short_name": "128",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Laumer Avenue",
+                    "short_name": "Laumer Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "East Hills and White",
+                    "short_name": "East Hills and White",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95127",
+                    "short_name": "95127",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2430",
+                    "short_name": "2430",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41062402": {
+        "neighborhood": "Lynn",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1319",
+                    "short_name": "1319",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "East 33rd Street",
+                    "short_name": "E 33rd St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lynn",
+                    "short_name": "Lynn",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94602",
+                    "short_name": "94602",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1027",
+                    "short_name": "1027",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41053206": {
+        "neighborhood": "Montclair",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "6012",
+                    "short_name": "6012",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Colton Boulevard",
+                    "short_name": "Colton Blvd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Montclair",
+                    "short_name": "Montclair",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94611",
+                    "short_name": "94611",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2207",
+                    "short_name": "2207",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41041292": {
+        "neighborhood": "Oakmore",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1956",
+                    "short_name": "1956",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hoover Avenue",
+                    "short_name": "Hoover Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Oakmore",
+                    "short_name": "Oakmore",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94602",
+                    "short_name": "94602",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1922",
+                    "short_name": "1922",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41063239": {
+        "neighborhood": "Trestle Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1025",
+                    "short_name": "1025",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Hubert Road",
+                    "short_name": "Hubert Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Trestle Glen",
+                    "short_name": "Trestle Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94610",
+                    "short_name": "94610",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "2520",
+                    "short_name": "2520",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ME224037698": {
+        "neighborhood": "Pacific",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "449",
+                    "short_name": "449",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "West Walnut Street",
+                    "short_name": "W Walnut St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Pacific",
+                    "short_name": "Pacific",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Stockton",
+                    "short_name": "Stockton",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Joaquin County",
+                    "short_name": "San Joaquin County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95204",
+                    "short_name": "95204",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "5639",
+                    "short_name": "5639",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81976005": {
+        "neighborhood": "Willow Glen",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "1067",
+                    "short_name": "1067",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Camino Pablo",
+                    "short_name": "Camino Pablo",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Willow Glen",
+                    "short_name": "Willow Glen",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "San Jose",
+                    "short_name": "San Jose",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "95125",
+                    "short_name": "95125",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "4304",
+                    "short_name": "4304",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "41051476": {
+        "neighborhood": "Upper Dimond",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "4024",
+                    "short_name": "4024",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Maple Avenue",
+                    "short_name": "Maple Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Upper Dimond",
+                    "short_name": "Upper Dimond",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Oakland",
+                    "short_name": "Oakland",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Alameda County",
+                    "short_name": "Alameda County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94602",
+                    "short_name": "94602",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "3952",
+                    "short_name": "3952",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    },
+    "ML81912047": {
+        "neighborhood": "Sunnyvale West",
+        "place_details": {
+            "address_components": [
+                {
+                    "long_name": "801",
+                    "short_name": "801",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "South Mary Avenue",
+                    "short_name": "S Mary Ave",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sunnyvale West",
+                    "short_name": "Sunnyvale West",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sunnyvale",
+                    "short_name": "Sunnyvale",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Santa Clara County",
+                    "short_name": "Santa Clara County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94087",
+                    "short_name": "94087",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "1166",
+                    "short_name": "1166",
+                    "types": [
+                        "postal_code_suffix"
+                    ]
+                }
+            ]
+        }
+    }
+}

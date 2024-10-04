@@ -19,8 +19,6 @@ import numpy as np
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
 from time import sleep
 import math
 from pydantic import BaseModel
@@ -1748,6 +1746,142 @@ def delete_mls_by_cities(mls_lat_long_file: str, cities: list, mls_data_file: st
     # Save the filtered data to a new CSV file
     filtered_mls_lat_long_df.to_csv(output_file, index=False)
 
+def get_neighborhood_details(clusters_file: str, mls_data_path: str, api_key: str, output_file: str, neighborhoods_list_file: str):
+    """
+    Get neighborhood details for a random address in each cluster using Google Places API and save to a JSON file.
+
+    :param clusters_file: Path to the JSON file containing clusters.
+    :param mls_data_path: Path to the CSV file containing MLS data.
+    :param api_key: Google Places API key.
+    :param output_file: Path to the output JSON file for neighborhood details.
+    :param neighborhoods_list_file: Path to the output file for the list of neighborhood strings.
+    """
+    # Load clusters from JSON file
+    with open(clusters_file, 'r') as file:
+        clusters = json.load(file)
+    
+    # Load MLS data once
+    df = pd.read_csv(mls_data_path, low_memory=False)
+    address_dict = get_address_strings(df)
+    
+    neighborhood_details = {}
+    neighborhoods_list = []
+    
+    # Process only the first 3 clusters for testing
+    for cluster_index, cluster in enumerate(clusters):
+        if not cluster:
+            neighborhoods_list.append(None)
+            continue
+        
+        # Select up to 5 random MLS Nos from the cluster
+        random_mls_nos = np.random.choice(cluster, min(5, len(cluster)), replace=False)
+        neighborhood_found = False
+        
+        for random_mls_no in random_mls_nos:
+            address = address_dict.get(random_mls_no)
+            
+            if not address:
+                print(f"No address found for MLS No: {random_mls_no}")
+                continue
+            
+            # Get place details from Google Places API
+            try:
+                place_id = get_place_id(address, api_key)
+                if place_id:
+                    place_details = get_place_details(place_id, api_key)
+                    neighborhood = next((comp['long_name'] for comp in place_details['address_components'] if 'neighborhood' in comp['types']), None)
+                    
+                    if neighborhood:
+                        neighborhood_details[random_mls_no] = {
+                            'neighborhood': neighborhood,
+                            'place_details': place_details
+                        }
+                        neighborhoods_list.append(neighborhood)
+                        print(f"Cluster {cluster_index}: Neighborhood for MLS No {random_mls_no} is {neighborhood}")
+                        neighborhood_found = True
+                        break
+                    else:
+                        print(f"No neighborhood found for address: {address}")
+                else:
+                    print(f"No place ID found for address: {address}")
+            
+            except Exception as e:
+                print(f"Error fetching neighborhood for MLS No {random_mls_no}: {e}")
+        
+        if not neighborhood_found:
+            neighborhoods_list.append(None)
+    
+    # Save the neighborhood details to a JSON file
+    with open(output_file, 'w') as file:
+        json.dump(neighborhood_details, file, indent=4)
+    
+    # Save the list of neighborhood strings to a separate file
+    with open(neighborhoods_list_file, 'w') as file:
+        json.dump(neighborhoods_list, file, indent=4)
+
+def get_address_strings(df: pd.DataFrame) -> dict:
+    """
+    Get a dictionary of address strings for all MLS Nos in the dataset.
+    
+    :param df: DataFrame containing MLS data.
+    :return: Dictionary with MLS No as keys and address strings as values.
+    """
+    address_dict = {}
+    for _, row in df.iterrows():
+        unit = row['Unit'] if pd.notna(row['Unit']) else ''
+        address_string = f"{row['Address']}, {unit}, {row['City']}, CA".replace(', ,', ',')
+        address_dict[row['MLS No']] = address_string
+    return address_dict
+
+def get_place_id(address: str, api_key: str) -> str:
+    """
+    Get place ID for a given address using Google Places API.
+
+    :param address: The address to search for.
+    :param api_key: Your Google Places API key.
+    :return: Place ID if found, else None.
+    """
+    base_url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json"
+    params = {
+        'input': address,
+        'inputtype': 'textquery',
+        'fields': 'place_id',
+        'key': api_key
+    }
+    response = requests.get(base_url, params=params)
+    response_data = response.json()
+    
+    if response_data['status'] == 'OK' and response_data['candidates']:
+        return response_data['candidates'][0]['place_id']
+    else:
+        print(f"Error fetching place ID: {response_data.get('status', 'Unknown error')}")
+        return None
+
+def get_place_details(place_id: str, api_key: str) -> dict:
+    """
+    Get detailed place information using Google Places API.
+
+    :param place_id: The place ID to get details for.
+    :param api_key: Your Google Places API key.
+    :return: Dictionary with place details.
+    """
+    base_url = "https://maps.googleapis.com/maps/api/place/details/json"
+    params = {
+        'place_id': place_id,
+        'fields': 'address_components',
+        'key': api_key
+    }
+    response = requests.get(base_url, params=params)
+    response_data = response.json()
+    
+    if response_data['status'] == 'OK':
+        return response_data['result']
+    else:
+        print(f"Error fetching place details: {response_data.get('status', 'Unknown error')}")
+        if 'error_message' in response_data:
+            print(f"Error message: {response_data['error_message']}")
+        raise Exception(f"Error fetching place details: {response_data.get('status', 'Unknown error')}")
+
 # Example usage:
 # address = get_address_string_given_mls_no('123456', 'combined_data.csv')
 # print(address)
@@ -2651,4 +2785,6 @@ def delete_mls_by_cities(mls_lat_long_file: str, cities: list, mls_data_file: st
 
 # analyze_sell_prices('top_50_clusters.json', 'cleaned_data.csv', 'results/price_spreads_top_50.txt')
 
-generate_markers_json('lat_long.csv', 'top_50_clusters.json', 'markers.json')
+# generate_markers_json('lat_long.csv', 'top_50_clusters.json', 'markers.json')
+
+get_neighborhood_details('top_50_clusters.json', 'cleaned_data.csv', google_places_api_key, 'results/neighborhood_details.json', 'results/neighborhoods.json')

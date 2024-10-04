@@ -31,44 +31,50 @@
         import { initializeMap } from './results/mapComponent.js';
 
         $(document).ready(function() {
-            // Load JSON data for analysis
-            $.getJSON('./results/price_spreads_top_50.json', function(data) {
-                data.forEach((cluster, index) => {
-                    const { average_sell_price, median_sell_price, sell_price_list } = cluster;
+            // Load JSON data for neighborhoods
+            $.getJSON('./results/neighborhoods.json', function(neighborhoods) {
+                // Load JSON data for analysis
+                $.getJSON('./results/price_spreads_top_50.json', function(data) {
+                    data.forEach((cluster, index) => {
+                        const { average_sell_price, median_sell_price, sell_price_list } = cluster;
+                        const neighborhood = neighborhoods[index] || 'Unknown Neighborhood';
 
-                    const analysisHtml = `
-                        <div class="mb-4">
-                            <h3>Cluster ${index + 1}</h3>
-                            <p><strong>Average Sell Price:</strong> $${average_sell_price.toLocaleString()}</p>
-                            <p><strong>Median Sell Price:</strong> $${median_sell_price.toLocaleString()}</p>
-                            <div class="scrollable-table">
-                                <table class="table table-striped">
-                                    <thead>
-                                        <tr>
-                                            <th>MLS No</th>
-                                            <th>Address</th>
-                                            <th>City</th>
-                                            <th>Lot SqFt</th>
-                                            <th>Sell Price</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        ${sell_price_list.map(info => `
+                        const analysisHtml = `
+                            <div class="mb-4">
+                                <h3>Cluster ${index + 1}: ${neighborhood}
+                                    <a href="./results/mls_data/${index + 1}.csv" class="btn btn-primary btn-sm float-end" download>Download MLS Data CSV</a>
+                                </h3>
+                                <p><strong>Average Sell Price:</strong> $${average_sell_price.toLocaleString()}</p>
+                                <p><strong>Median Sell Price:</strong> $${median_sell_price.toLocaleString()}</p>
+                                <div class="scrollable-table">
+                                    <table class="table table-striped">
+                                        <thead>
                                             <tr>
-                                                <td>${info.mls_no}</td>
-                                                <td>${info.address}</td>
-                                                <td>${info.city}</td>
-                                                <td>${info.lot_sqft.toLocaleString()}</td>
-                                                <td>${info.sell_price.toLocaleString()}</td>
+                                                <th>MLS No</th>
+                                                <th>Address</th>
+                                                <th>City</th>
+                                                <th>Lot SqFt</th>
+                                                <th>Sell Price</th>
                                             </tr>
-                                        `).join('')}
-                                    </tbody>
-                                </table>
+                                        </thead>
+                                        <tbody>
+                                            ${sell_price_list.map(info => `
+                                                <tr>
+                                                    <td>${info.mls_no}</td>
+                                                    <td>${info.address}</td>
+                                                    <td>${info.city}</td>
+                                                    <td>${info.lot_sqft.toLocaleString()}</td>
+                                                    <td>${info.sell_price.toLocaleString()}</td>
+                                                </tr>
+                                            `).join('')}
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
-                        </div>
-                    `;
+                        `;
 
-                    $('#analysis-container').append(analysisHtml);
+                        $('#analysis-container').append(analysisHtml);
+                    });
                 });
             });
 
