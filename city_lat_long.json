@@ -1,0 +1,1518 @@
+{
+    "ACTON": {
+        "latitude": 42.4850931,
+        "longitude": -71.43284
+    },
+    "AGOURA HIL": {
+        "latitude": 34.1533395,
+        "longitude": -118.7616764
+    },
+    "ALAMEDA": {
+        "latitude": 37.7798721,
+        "longitude": -122.2821855
+    },
+    "ALBANY": {
+        "latitude": -35.0268148,
+        "longitude": 117.8837114
+    },
+    "ALISO VIEJ": {
+        "latitude": 33.5684605,
+        "longitude": -117.7262981
+    },
+    "ALTA LOMA": {
+        "latitude": 34.1222317,
+        "longitude": -117.5981086
+    },
+    "ALTADENA": {
+        "latitude": 34.190162,
+        "longitude": -118.1313188
+    },
+    "ANAHEIM": {
+        "latitude": 33.8365932,
+        "longitude": -117.9143012
+    },
+    "ANTIOCH": {
+        "latitude": 36.2042794,
+        "longitude": 36.1618938
+    },
+    "ANZA": {
+        "latitude": 33.5552692,
+        "longitude": -116.6741822
+    },
+    "APPLE VALL": {
+        "latitude": 34.5008311,
+        "longitude": -117.1858759
+    },
+    "APTOS": {
+        "latitude": 36.97717290000001,
+        "longitude": -121.8994016
+    },
+    "ARLETA": {
+        "latitude": 34.2480577,
+        "longitude": -118.4324035
+    },
+    "ARROYO GRA": {
+        "latitude": 35.1185868,
+        "longitude": -120.5907252
+    },
+    "ATASCADERO": {
+        "latitude": 35.4894169,
+        "longitude": -120.6707255
+    },
+    "ATHERTON": {
+        "latitude": 37.4613272,
+        "longitude": -122.197743
+    },
+    "ATWATER": {
+        "latitude": 37.3477174,
+        "longitude": -120.609084
+    },
+    "AUBURN": {
+        "latitude": 32.6098566,
+        "longitude": -85.48078249999999
+    },
+    "AZUSA": {
+        "latitude": 34.1336186,
+        "longitude": -117.9075627
+    },
+    "BAKERSFIEL": {
+        "latitude": 35.3732921,
+        "longitude": -119.0187125
+    },
+    "BALDWIN PA": {
+        "latitude": 40.3381252,
+        "longitude": -79.9789404
+    },
+    "BANNING": {
+        "latitude": 33.9255713,
+        "longitude": -116.8764103
+    },
+    "BARSTOW": {
+        "latitude": 34.8957957,
+        "longitude": -117.0172826
+    },
+    "BAY POINT": {
+        "latitude": 38.0290872,
+        "longitude": -121.9616274
+    },
+    "BELLFLOWER": {
+        "latitude": 33.8816818,
+        "longitude": -118.1170117
+    },
+    "BENICIA": {
+        "latitude": 38.049365,
+        "longitude": -122.1585777
+    },
+    "BERKELEY": {
+        "latitude": 37.8715226,
+        "longitude": -122.273042
+    },
+    "BEVERLY HI": {
+        "latitude": 34.0736204,
+        "longitude": -118.4003563
+    },
+    "BIG BEAR L": {
+        "latitude": 34.2438963,
+        "longitude": -116.9114215
+    },
+    "BLOOMINGTO": {
+        "latitude": 39.165325,
+        "longitude": -86.52638569999999
+    },
+    "BLYTHE": {
+        "latitude": 33.6177725,
+        "longitude": -114.5882607
+    },
+    "BORREGO SP": {
+        "latitude": 33.2558717,
+        "longitude": -116.375012
+    },
+    "BOULDERCRK": {
+        "latitude": 37.12605780000001,
+        "longitude": -122.1221869
+    },
+    "BREA": {
+        "latitude": 33.916475,
+        "longitude": -117.9002918
+    },
+    "BRENTWOOD": {
+        "latitude": 37.931868,
+        "longitude": -121.6957863
+    },
+    "BUENA PARK": {
+        "latitude": 33.8674044,
+        "longitude": -117.9981387
+    },
+    "BURBANK": {
+        "latitude": 34.1808392,
+        "longitude": -118.3089661
+    },
+    "BURLINGAME": {
+        "latitude": 37.5778696,
+        "longitude": -122.34809
+    },
+    "CA CITY": {
+        "latitude": 35.125801,
+        "longitude": -117.9859038
+    },
+    "CALABASAS": {
+        "latitude": 34.1539731,
+        "longitude": -118.6473801
+    },
+    "CALIMESA": {
+        "latitude": 34.0039039,
+        "longitude": -117.0619755
+    },
+    "CAMARILLO": {
+        "latitude": 34.2163937,
+        "longitude": -119.0376023
+    },
+    "CANOGA PAR": {
+        "latitude": 34.2083086,
+        "longitude": -118.5975318
+    },
+    "CANYON COU": {
+        "latitude": 43.67795810000001,
+        "longitude": -116.6865435
+    },
+    "CANYON LAK": {
+        "latitude": 33.54221210000001,
+        "longitude": -111.4365318
+    },
+    "CAPITOLA": {
+        "latitude": 36.9752283,
+        "longitude": -121.953293
+    },
+    "CARLSBAD": {
+        "latitude": 33.1580933,
+        "longitude": -117.3505939
+    },
+    "CARMEL": {
+        "latitude": 36.5552386,
+        "longitude": -121.9232879
+    },
+    "CARMEL VAL": {
+        "latitude": 36.4799024,
+        "longitude": -121.7327931
+    },
+    "CARSON": {
+        "latitude": 33.8316745,
+        "longitude": -118.281693
+    },
+    "CASTAIC": {
+        "latitude": 34.4890363,
+        "longitude": -118.6256552
+    },
+    "CASTROVAEY": {
+        "latitude": 37.6955029,
+        "longitude": -122.0738678
+    },
+    "CERRITOS": {
+        "latitude": 33.8583483,
+        "longitude": -118.0647871
+    },
+    "CHATSWORTH": {
+        "latitude": 34.2572378,
+        "longitude": -118.5973401
+    },
+    "CHINO": {
+        "latitude": 34.0122346,
+        "longitude": -117.688944
+    },
+    "CHINO HILL": {
+        "latitude": 33.9898188,
+        "longitude": -117.7325848
+    },
+    "CHOWCHILLA": {
+        "latitude": 37.1229997,
+        "longitude": -120.2601754
+    },
+    "CHULA VIST": {
+        "latitude": 32.6400541,
+        "longitude": -117.0841955
+    },
+    "CITRUS HEI": {
+        "latitude": 38.6830822,
+        "longitude": -121.2976028
+    },
+    "CLAREMONT": {
+        "latitude": 34.0966764,
+        "longitude": -117.7197785
+    },
+    "CLEARLAKE": {
+        "latitude": 38.961809,
+        "longitude": -122.6312972
+    },
+    "CLOVERDALE": {
+        "latitude": 49.1115339,
+        "longitude": -122.7349425
+    },
+    "COARSEGOLD": {
+        "latitude": 37.2612109,
+        "longitude": -119.7014194
+    },
+    "COLFAX": {
+        "latitude": 39.1007298,
+        "longitude": -120.9532759
+    },
+    "COLTON": {
+        "latitude": 34.0739016,
+        "longitude": -117.3136547
+    },
+    "COMPTON": {
+        "latitude": 33.8958492,
+        "longitude": -118.2200712
+    },
+    "COPPEROPOL": {
+        "latitude": 37.9810358,
+        "longitude": -120.6418716
+    },
+    "CORTEMAERA": {
+        "latitude": 37.9254806,
+        "longitude": -122.5274755
+    },
+    "COSTA MESA": {
+        "latitude": 33.6638439,
+        "longitude": -117.9047429
+    },
+    "COTATI": {
+        "latitude": 38.3293416,
+        "longitude": -122.7096666
+    },
+    "COVINA": {
+        "latitude": 34.0900091,
+        "longitude": -117.8903397
+    },
+    "CRESTLINE": {
+        "latitude": 34.2419509,
+        "longitude": -117.2855993
+    },
+    "CULVER CIT": {
+        "latitude": 34.0211224,
+        "longitude": -118.3964665
+    },
+    "CUPERTINO": {
+        "latitude": 37.3229978,
+        "longitude": -122.0321823
+    },
+    "DALY CITY": {
+        "latitude": 37.6879241,
+        "longitude": -122.4702079
+    },
+    "DANA POINT": {
+        "latitude": 33.4672256,
+        "longitude": -117.6981014
+    },
+    "DANVILLE": {
+        "latitude": 36.5859718,
+        "longitude": -79.39502279999999
+    },
+    "DAVIS": {
+        "latitude": 40.9628845,
+        "longitude": -112.0953297
+    },
+    "DEL MAR": {
+        "latitude": 32.9594891,
+        "longitude": -117.2653146
+    },
+    "DESERT HOT": {
+        "latitude": 33.9615186,
+        "longitude": -116.5013793
+    },
+    "DIAMONDBAR": {
+        "latitude": 34.0009951,
+        "longitude": -117.8112041
+    },
+    "DISCOV BAY": {
+        "latitude": 37.9085357,
+        "longitude": -121.6002291
+    },
+    "DOWNEY": {
+        "latitude": 33.9401088,
+        "longitude": -118.1331593
+    },
+    "DUARTE": {
+        "latitude": 34.1394513,
+        "longitude": -117.9772873
+    },
+    "DUBLIN": {
+        "latitude": 53.3498053,
+        "longitude": -6.2603097
+    },
+    "EASTVALE": {
+        "latitude": 33.952463,
+        "longitude": -117.5848025
+    },
+    "EL CAJON": {
+        "latitude": 32.7947731,
+        "longitude": -116.9625269
+    },
+    "EL CERRITO": {
+        "latitude": 37.9161326,
+        "longitude": -122.310765
+    },
+    "EL MONTE": {
+        "latitude": 34.0686206,
+        "longitude": -118.0275667
+    },
+    "EL SEGUNDO": {
+        "latitude": 33.9191799,
+        "longitude": -118.4164652
+    },
+    "ELDO HILLS": {
+        "latitude": 38.6857367,
+        "longitude": -121.082167
+    },
+    "ELK GROVE": {
+        "latitude": 38.4087993,
+        "longitude": -121.3716178
+    },
+    "ELSOBRANTE": {
+        "latitude": 37.9771452,
+        "longitude": -122.2952474
+    },
+    "EMERYVILLE": {
+        "latitude": 37.8395028,
+        "longitude": -122.2892278
+    },
+    "ENCINITAS": {
+        "latitude": 33.0369867,
+        "longitude": -117.2919818
+    },
+    "ENCINO": {
+        "latitude": 34.1592881,
+        "longitude": -118.5011688
+    },
+    "ESCONDIDO": {
+        "latitude": 33.1192068,
+        "longitude": -117.086421
+    },
+    "FAIR OAKS": {
+        "latitude": 41.0750361,
+        "longitude": -87.25752829999999
+    },
+    "FAIRFIELD": {
+        "latitude": 41.1408363,
+        "longitude": -73.2612615
+    },
+    "FALLBROOK": {
+        "latitude": 33.3764196,
+        "longitude": -117.2511466
+    },
+    "FOLSOM": {
+        "latitude": 38.6779591,
+        "longitude": -121.1760583
+    },
+    "FONTANA": {
+        "latitude": 34.0922335,
+        "longitude": -117.435048
+    },
+    "FORESTHILL": {
+        "latitude": 39.0201768,
+        "longitude": -120.8179891
+    },
+    "FORT BRAGG": {
+        "latitude": 39.445723,
+        "longitude": -123.8052935
+    },
+    "FOSTERCITY": {
+        "latitude": 37.5585465,
+        "longitude": -122.2710788
+    },
+    "FOUNTAIN V": {
+        "latitude": 33.7090212,
+        "longitude": -117.9544069
+    },
+    "FRAZIER PA": {
+        "latitude": 40.0323293,
+        "longitude": -75.5560376
+    },
+    "FREMONT": {
+        "latitude": 37.5485396,
+        "longitude": -121.988583
+    },
+    "FRESNO": {
+        "latitude": 36.7377981,
+        "longitude": -119.7871247
+    },
+    "FULLERTON": {
+        "latitude": 33.8703645,
+        "longitude": -117.9242123
+    },
+    "GALT": {
+        "latitude": 38.2546373,
+        "longitude": -121.2999485
+    },
+    "GARDENA": {
+        "latitude": 33.8883487,
+        "longitude": -118.3089624
+    },
+    "GILROY": {
+        "latitude": 37.0029828,
+        "longitude": -121.5566373
+    },
+    "GLENDALE": {
+        "latitude": 34.1425078,
+        "longitude": -118.255075
+    },
+    "GLENDORA": {
+        "latitude": 34.1361187,
+        "longitude": -117.865339
+    },
+    "GOLD RIVER": {
+        "latitude": 38.6262937,
+        "longitude": -121.2466156
+    },
+    "GRANADA HI": {
+        "latitude": 34.2793022,
+        "longitude": -118.502147
+    },
+    "GRAND TERR": {
+        "latitude": 34.0339031,
+        "longitude": -117.3136544
+    },
+    "GRANITE BA": {
+        "latitude": 38.7632345,
+        "longitude": -121.1638361
+    },
+    "GRASSVALEY": {
+        "latitude": 39.2190608,
+        "longitude": -121.0610606
+    },
+    "GREENBRAE": {
+        "latitude": 37.9476326,
+        "longitude": -122.5252604
+    },
+    "GROVER BEA": {
+        "latitude": 35.1216424,
+        "longitude": -120.6212821
+    },
+    "GUERNVILLE": {
+        "latitude": 38.5018575,
+        "longitude": -122.9961102
+    },
+    "HACIENDA H": {
+        "latitude": 33.9930677,
+        "longitude": -117.9686755
+    },
+    "HALFMO BAY": {
+        "latitude": 37.4635519,
+        "longitude": -122.4285862
+    },
+    "HARBOR CIT": {
+        "latitude": 33.7899467,
+        "longitude": -118.2975261
+    },
+    "HAYWARD": {
+        "latitude": 37.6687665,
+        "longitude": -122.0809964
+    },
+    "HEALDSBURG": {
+        "latitude": 38.6081693,
+        "longitude": -122.8700509
+    },
+    "HELENDALE": {
+        "latitude": 34.7402853,
+        "longitude": -117.3257169
+    },
+    "HEMET": {
+        "latitude": 33.7475203,
+        "longitude": -116.9719684
+    },
+    "HERMOSA BE": {
+        "latitude": 33.8622366,
+        "longitude": -118.3995194
+    },
+    "HESPERIA": {
+        "latitude": 34.4263886,
+        "longitude": -117.3008784
+    },
+    "HILLSBOROU": {
+        "latitude": 43.114728,
+        "longitude": -71.895049
+    },
+    "HUGHSON": {
+        "latitude": 37.6020139,
+        "longitude": -120.8653488
+    },
+    "INDIO": {
+        "latitude": 33.7205771,
+        "longitude": -116.2155619
+    },
+    "INGLEWOOD": {
+        "latitude": 33.9616801,
+        "longitude": -118.3531311
+    },
+    "IRVINE": {
+        "latitude": 33.6845673,
+        "longitude": -117.8265049
+    },
+    "JOSHUA TRE": {
+        "latitude": 33.873415,
+        "longitude": -115.9009923
+    },
+    "JURUPAVALL": {
+        "latitude": 33.9942737,
+        "longitude": -117.4971606
+    },
+    "KELSEYVILL": {
+        "latitude": 38.9779531,
+        "longitude": -122.8394375
+    },
+    "KING CITY": {
+        "latitude": 36.2127439,
+        "longitude": -121.1260287
+    },
+    "LA CANADAF": {
+        "latitude": 34.2068182,
+        "longitude": -118.2000277
+    },
+    "LA CRESCEN": {
+        "latitude": 43.82646949999999,
+        "longitude": -91.30355139999999
+    },
+    "LA HABRA": {
+        "latitude": 33.9318591,
+        "longitude": -117.946137
+    },
+    "LA JOLLA": {
+        "latitude": 32.8328112,
+        "longitude": -117.2712717
+    },
+    "LA MESA": {
+        "latitude": 32.7678287,
+        "longitude": -117.0230839
+    },
+    "LA MIRADA": {
+        "latitude": 33.9172357,
+        "longitude": -118.0120086
+    },
+    "LA PALMA": {
+        "latitude": 28.7133828,
+        "longitude": -17.9057813
+    },
+    "LA PUENTE": {
+        "latitude": 34.0200114,
+        "longitude": -117.9495083
+    },
+    "LA VERNE": {
+        "latitude": 34.1008426,
+        "longitude": -117.7678355
+    },
+    "LADERA RAN": {
+        "latitude": 33.550735,
+        "longitude": -117.6411717
+    },
+    "LAGUNA BEA": {
+        "latitude": 33.5427189,
+        "longitude": -117.7853568
+    },
+    "LAGUNA HIL": {
+        "latitude": 33.5916433,
+        "longitude": -117.6986604
+    },
+    "LAGUNA NIG": {
+        "latitude": 33.5236744,
+        "longitude": -117.7149438
+    },
+    "LAGUNA WOO": {
+        "latitude": 33.6101702,
+        "longitude": -117.7251162
+    },
+    "LAKE ARROW": {
+        "latitude": 34.2483396,
+        "longitude": -117.1892078
+    },
+    "LAKE ELSIN": {
+        "latitude": 33.6680447,
+        "longitude": -117.3276917
+    },
+    "LAKE FORES": {
+        "latitude": 42.2586342,
+        "longitude": -87.840625
+    },
+    "LAKEPORT": {
+        "latitude": 39.0429506,
+        "longitude": -122.9158293
+    },
+    "LAKEWOOD": {
+        "latitude": 33.8536269,
+        "longitude": -118.1339563
+    },
+    "LANCASTER": {
+        "latitude": 40.0378755,
+        "longitude": -76.3055144
+    },
+    "LATHROP": {
+        "latitude": 37.8227046,
+        "longitude": -121.27661
+    },
+    "LAWNDALE": {
+        "latitude": 33.887237,
+        "longitude": -118.3525744
+    },
+    "LEMON GROV": {
+        "latitude": 32.7425516,
+        "longitude": -117.0314172
+    },
+    "LITTLEROCK": {
+        "latitude": 34.7444618,
+        "longitude": -92.2880157
+    },
+    "LIVERMORE": {
+        "latitude": 37.6818688,
+        "longitude": -121.7684732
+    },
+    "LODI": {
+        "latitude": 38.1341477,
+        "longitude": -121.2722194
+    },
+    "LOMA LINDA": {
+        "latitude": 34.0483474,
+        "longitude": -117.2611527
+    },
+    "LOMITA": {
+        "latitude": 33.7922392,
+        "longitude": -118.3150722
+    },
+    "LOMPOC": {
+        "latitude": 34.6391501,
+        "longitude": -120.4579409
+    },
+    "LONG BEACH": {
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
+    "LOS ALAMIT": {
+        "latitude": 33.8032009,
+        "longitude": -118.0718894
+    },
+    "LOS ALTOS": {
+        "latitude": 37.3852183,
+        "longitude": -122.1141298
+    },
+    "LOS ANGELE": {
+        "latitude": 34.0549076,
+        "longitude": -118.242643
+    },
+    "LOS BANOS": {
+        "latitude": 37.0582786,
+        "longitude": -120.8499151
+    },
+    "LOS OSOS": {
+        "latitude": 35.3072291,
+        "longitude": -120.8384093
+    },
+    "LUCERNE": {
+        "latitude": 47.05016819999999,
+        "longitude": 8.3093072
+    },
+    "LUCERNE VA": {
+        "latitude": 37.4315734,
+        "longitude": -78.6568942
+    },
+    "LYNWOOD": {
+        "latitude": 33.930293,
+        "longitude": -118.2114603
+    },
+    "MAGALIA": {
+        "latitude": 39.8121058,
+        "longitude": -121.5783059
+    },
+    "MALIBU": {
+        "latitude": 34.0380585,
+        "longitude": -118.6923438
+    },
+    "MANHATTAN": {
+        "latitude": 40.7685167,
+        "longitude": -73.98219379999999
+    },
+    "MANTECA": {
+        "latitude": 37.7974273,
+        "longitude": -121.2160526
+    },
+    "MARIPOSA": {
+        "latitude": 37.4930789,
+        "longitude": -119.9727277
+    },
+    "MARYSVILLE": {
+        "latitude": 48.0517637,
+        "longitude": -122.1770818
+    },
+    "MENIFEE": {
+        "latitude": 33.6971468,
+        "longitude": -117.185294
+    },
+    "MENLO PARK": {
+        "latitude": 37.4529598,
+        "longitude": -122.1817252
+    },
+    "MERCED": {
+        "latitude": 37.3021632,
+        "longitude": -120.4829677
+    },
+    "MILLBRAE": {
+        "latitude": 37.5985468,
+        "longitude": -122.3871942
+    },
+    "MILLVALLEY": {
+        "latitude": 37.9060368,
+        "longitude": -122.5449763
+    },
+    "MILPITAS": {
+        "latitude": 37.4323341,
+        "longitude": -121.8995741
+    },
+    "MISSION VI": {
+        "latitude": 33.5968913,
+        "longitude": -117.6581562
+    },
+    "MODESTO": {
+        "latitude": 37.6392595,
+        "longitude": -120.9970014
+    },
+    "MONROVIA": {
+        "latitude": 6.3156068,
+        "longitude": -10.8073698
+    },
+    "MONTCLAIR": {
+        "latitude": 40.8259007,
+        "longitude": -74.2090053
+    },
+    "MONTEBELLO": {
+        "latitude": 34.0165053,
+        "longitude": -118.1137535
+    },
+    "MONTEREY": {
+        "latitude": 36.6002378,
+        "longitude": -121.8946761
+    },
+    "MONTEREY P": {
+        "latitude": 34.0625106,
+        "longitude": -118.1228476
+    },
+    "MOORPARK": {
+        "latitude": 34.285558,
+        "longitude": -118.8820414
+    },
+    "MORAGA": {
+        "latitude": 37.8349263,
+        "longitude": -122.1296871
+    },
+    "MORENO VAL": {
+        "latitude": 33.9424658,
+        "longitude": -117.2296717
+    },
+    "MORGANHILL": {
+        "latitude": 37.1305012,
+        "longitude": -121.6543901
+    },
+    "MORRO BAY": {
+        "latitude": 35.3659445,
+        "longitude": -120.8499924
+    },
+    "MOUNTAVIEW": {
+        "latitude": 37.3900264,
+        "longitude": -122.0812304
+    },
+    "MURRIETA": {
+        "latitude": 33.5539143,
+        "longitude": -117.2139232
+    },
+    "NEVADACITY": {
+        "latitude": 39.2615606,
+        "longitude": -121.0160594
+    },
+    "NEWARK": {
+        "latitude": 40.735657,
+        "longitude": -74.1723667
+    },
+    "NEWBURY PA": {
+        "latitude": 40.1293106,
+        "longitude": -76.79135579999999
+    },
+    "NEWHALL": {
+        "latitude": 34.373361,
+        "longitude": -118.5400404
+    },
+    "NEWPORT BE": {
+        "latitude": 33.6041944,
+        "longitude": -117.8738554
+    },
+    "NIPOMO": {
+        "latitude": 35.0427547,
+        "longitude": -120.4759986
+    },
+    "NORTH HOLL": {
+        "latitude": 34.1866635,
+        "longitude": -118.3877732
+    },
+    "NORTHRIDGE": {
+        "latitude": 34.2354576,
+        "longitude": -118.5361381
+    },
+    "NORWALK": {
+        "latitude": 41.11774399999999,
+        "longitude": -73.4081575
+    },
+    "NOVATO": {
+        "latitude": 38.1074198,
+        "longitude": -122.5697032
+    },
+    "OAKDALE": {
+        "latitude": 37.7666263,
+        "longitude": -120.8470308
+    },
+    "OAKHURST": {
+        "latitude": 37.3279997,
+        "longitude": -119.6493154
+    },
+    "OAKLAND": {
+        "latitude": 37.8043514,
+        "longitude": -122.2711639
+    },
+    "OCEANSIDE": {
+        "latitude": 33.1958696,
+        "longitude": -117.3794834
+    },
+    "OJAI": {
+        "latitude": 34.4480495,
+        "longitude": -119.242889
+    },
+    "OLIVEHURST": {
+        "latitude": 39.0954484,
+        "longitude": -121.5521858
+    },
+    "ONTARIO": {
+        "latitude": 51.253775,
+        "longitude": -85.3232139
+    },
+    "ORANGEVALE": {
+        "latitude": 38.6785145,
+        "longitude": -121.2257818
+    },
+    "ORINDA": {
+        "latitude": 37.8771476,
+        "longitude": -122.1796888
+    },
+    "ORLAND": {
+        "latitude": 39.7473803,
+        "longitude": -122.1963748
+    },
+    "OROVILLE": {
+        "latitude": 39.5133153,
+        "longitude": -121.5577086
+    },
+    "OXNARD": {
+        "latitude": 34.1975048,
+        "longitude": -119.1770516
+    },
+    "PACOIMA": {
+        "latitude": 34.2660906,
+        "longitude": -118.4221196
+    },
+    "PALM DESER": {
+        "latitude": 33.7222445,
+        "longitude": -116.3744556
+    },
+    "PALM SPRIN": {
+        "latitude": 33.8302961,
+        "longitude": -116.5452921
+    },
+    "PALMDALE": {
+        "latitude": 34.5794343,
+        "longitude": -118.1164613
+    },
+    "PALO ALTO": {
+        "latitude": 37.4418834,
+        "longitude": -122.1430195
+    },
+    "PALOS VERD": {
+        "latitude": 33.7444613,
+        "longitude": -118.3870173
+    },
+    "PANORAMA C": {
+        "latitude": 34.2215391,
+        "longitude": -118.4487995
+    },
+    "PASADENA": {
+        "latitude": 34.1477849,
+        "longitude": -118.1445155
+    },
+    "PASO ROBLE": {
+        "latitude": 35.6368759,
+        "longitude": -120.6545022
+    },
+    "PENN VALLE": {
+        "latitude": 39.196005,
+        "longitude": -121.1910659
+    },
+    "PERRIS": {
+        "latitude": 33.7825194,
+        "longitude": -117.2286478
+    },
+    "PETALUMA": {
+        "latitude": 38.232417,
+        "longitude": -122.6366524
+    },
+    "PHELAN": {
+        "latitude": 34.426288,
+        "longitude": -117.5725628
+    },
+    "PICO RIVER": {
+        "latitude": -44.22184110850466,
+        "longitude": -71.65298169905702
+    },
+    "PIEDMONT": {
+        "latitude": 33.0170716,
+        "longitude": -84.25075199999999
+    },
+    "PINEMTNCLU": {
+        "latitude": 34.8462176,
+        "longitude": -119.1560394
+    },
+    "PINOLE": {
+        "latitude": 38.0043667,
+        "longitude": -122.2988587
+    },
+    "PINON HILL": {
+        "latitude": 34.4262361,
+        "longitude": -117.6264338
+    },
+    "PISMO BEAC": {
+        "latitude": 35.1427533,
+        "longitude": -120.6412827
+    },
+    "PITTSBURG": {
+        "latitude": 40.44062479999999,
+        "longitude": -79.9958864
+    },
+    "PLACENTIA": {
+        "latitude": 33.8710317,
+        "longitude": -117.8628096
+    },
+    "PLACERVILL": {
+        "latitude": 38.7296252,
+        "longitude": -120.798546
+    },
+    "PLEASAHILL": {
+        "latitude": 37.9479786,
+        "longitude": -122.0607963
+    },
+    "PLEASANTON": {
+        "latitude": 37.6604484,
+        "longitude": -121.8757968
+    },
+    "PLUMAS LAK": {
+        "latitude": 39.0086581,
+        "longitude": -121.551629
+    },
+    "POMONA": {
+        "latitude": 34.055103,
+        "longitude": -117.7499909
+    },
+    "PORT HUENE": {
+        "latitude": 34.1477829,
+        "longitude": -119.1951074
+    },
+    "PORTER RAN": {
+        "latitude": 34.27549520000001,
+        "longitude": -118.5472573
+    },
+    "POWAY": {
+        "latitude": 32.9628232,
+        "longitude": -117.0358646
+    },
+    "RANCHO COR": {
+        "latitude": 38.5890723,
+        "longitude": -121.302728
+    },
+    "RANCHO CUC": {
+        "latitude": 34.10639889999999,
+        "longitude": -117.5931084
+    },
+    "RANCHO MIR": {
+        "latitude": 33.739744,
+        "longitude": -116.41279
+    },
+    "RANCHO MUR": {
+        "latitude": 38.5018527,
+        "longitude": -121.0946669
+    },
+    "RANCHO PAL": {
+        "latitude": 33.7444613,
+        "longitude": -118.3870173
+    },
+    "RED BLUFF": {
+        "latitude": 40.1784886,
+        "longitude": -122.2358302
+    },
+    "REDLANDS": {
+        "latitude": 34.0555693,
+        "longitude": -117.1825381
+    },
+    "REDONDO BE": {
+        "latitude": 33.8491816,
+        "longitude": -118.3884078
+    },
+    "REDWOODCIY": {
+        "latitude": 37.4847955,
+        "longitude": -122.228141
+    },
+    "RESEDA": {
+        "latitude": 34.2011126,
+        "longitude": -118.5360205
+    },
+    "RICHMOND": {
+        "latitude": 37.5407246,
+        "longitude": -77.4360481
+    },
+    "RIO LINDA": {
+        "latitude": 38.69101380000001,
+        "longitude": -121.4485654
+    },
+    "RIO VISTA": {
+        "latitude": 38.1557502,
+        "longitude": -121.6913439
+    },
+    "RIPON": {
+        "latitude": 54.1361346,
+        "longitude": -1.5237756
+    },
+    "ROCKLIN": {
+        "latitude": 38.7907339,
+        "longitude": -121.2357828
+    },
+    "ROHNERTPAK": {
+        "latitude": 38.3396367,
+        "longitude": -122.7010984
+    },
+    "ROSAMOND": {
+        "latitude": 34.8643808,
+        "longitude": -118.163307
+    },
+    "ROSEMEAD": {
+        "latitude": 34.0805651,
+        "longitude": -118.072846
+    },
+    "ROSEVILLE": {
+        "latitude": 38.7521235,
+        "longitude": -121.2880059
+    },
+    "ROWLAND HE": {
+        "latitude": 33.9761238,
+        "longitude": -117.9053395
+    },
+    "SACRAMENTO": {
+        "latitude": 38.5815719,
+        "longitude": -121.4943996
+    },
+    "SALIDA": {
+        "latitude": 38.5347193,
+        "longitude": -105.9989022
+    },
+    "SALINAS": {
+        "latitude": 36.6777372,
+        "longitude": -121.6555013
+    },
+    "SAN BERNAR": {
+        "latitude": 34.1083449,
+        "longitude": -117.2897652
+    },
+    "SAN BRUNO": {
+        "latitude": 37.6304904,
+        "longitude": -122.4110835
+    },
+    "SAN CARLOS": {
+        "latitude": 37.5071591,
+        "longitude": -122.2605222
+    },
+    "SAN CLEMEN": {
+        "latitude": 33.4273521,
+        "longitude": -117.6126004
+    },
+    "SAN DIEGO": {
+        "latitude": 32.715738,
+        "longitude": -117.1610838
+    },
+    "SAN DIMAS": {
+        "latitude": 34.1066756,
+        "longitude": -117.8067257
+    },
+    "SAN FERNAN": {
+        "latitude": -34.4430618,
+        "longitude": -58.55796429999999
+    },
+    "SAN GABRIE": {
+        "latitude": 34.09611110000001,
+        "longitude": -118.1058333
+    },
+    "SAN JACINT": {
+        "latitude": 33.7839084,
+        "longitude": -116.958635
+    },
+    "SAN JOSE": {
+        "latitude": 37.33874,
+        "longitude": -121.8852525
+    },
+    "SAN JUAN C": {
+        "latitude": 33.5019027,
+        "longitude": -117.6627655
+    },
+    "SAN MARCOS": {
+        "latitude": 29.8832749,
+        "longitude": -97.9413941
+    },
+    "SAN MARINO": {
+        "latitude": 43.94236,
+        "longitude": 12.457777
+    },
+    "SAN MATEO": {
+        "latitude": 37.5629917,
+        "longitude": -122.3255254
+    },
+    "SAN PABLO": {
+        "latitude": 37.9621457,
+        "longitude": -122.3455263
+    },
+    "SAN PEDRO": {
+        "latitude": 33.7360696,
+        "longitude": -118.2923791
+    },
+    "SAN RAFAEL": {
+        "latitude": 37.9735346,
+        "longitude": -122.5310874
+    },
+    "SAN RAMON": {
+        "latitude": 37.7643595,
+        "longitude": -121.9539616
+    },
+    "SANANSELMO": {
+        "latitude": 37.9746458,
+        "longitude": -122.5616448
+    },
+    "SANFRCISCO": {
+        "latitude": 37.7749295,
+        "longitude": -122.4194155
+    },
+    "SANLEANDRO": {
+        "latitude": 37.7257663,
+        "longitude": -122.1568554
+    },
+    "SANTA ANA": {
+        "latitude": 33.7454725,
+        "longitude": -117.867653
+    },
+    "SANTA BARB": {
+        "latitude": 34.4208305,
+        "longitude": -119.6981901
+    },
+    "SANTA CLAR": {
+        "latitude": 37.3541079,
+        "longitude": -121.9552356
+    },
+    "SANTA CRUZ": {
+        "latitude": 36.9741171,
+        "longitude": -122.0307963
+    },
+    "SANTA MARI": {
+        "latitude": 34.9530337,
+        "longitude": -120.4357191
+    },
+    "SANTA MONI": {
+        "latitude": 34.0194543,
+        "longitude": -118.4911912
+    },
+    "SANTA ROSA": {
+        "latitude": 38.440429,
+        "longitude": -122.7140548
+    },
+    "SANTACLARA": {
+        "latitude": 37.3541079,
+        "longitude": -121.9552356
+    },
+    "SANTEE": {
+        "latitude": 32.8383828,
+        "longitude": -116.9739167
+    },
+    "SARATOGA": {
+        "latitude": 43.0324245,
+        "longitude": -73.93598209999999
+    },
+    "SAUGUS": {
+        "latitude": 42.4651421,
+        "longitude": -71.0110473
+    },
+    "SAUSALITO": {
+        "latitude": 37.8590937,
+        "longitude": -122.4852507
+    },
+    "SCOTTSVAEY": {
+        "latitude": 33.4948764,
+        "longitude": -111.9216734
+    },
+    "SEAL BEACH": {
+        "latitude": 33.7414085,
+        "longitude": -118.1047682
+    },
+    "SEASIDE": {
+        "latitude": 30.3216504,
+        "longitude": -86.1429286
+    },
+    "SEBASTOPOL": {
+        "latitude": 38.4021359,
+        "longitude": -122.8238806
+    },
+    "SHERMAN OA": {
+        "latitude": 34.1509272,
+        "longitude": -118.4486989
+    },
+    "SIERRA MAD": {
+        "latitude": 34.1616729,
+        "longitude": -118.0528456
+    },
+    "SIGNAL HIL": {
+        "latitude": 33.8044614,
+        "longitude": -118.1678456
+    },
+    "SIMI VALLE": {
+        "latitude": 34.2694474,
+        "longitude": -118.781482
+    },
+    "SOLANA BEA": {
+        "latitude": 32.991155,
+        "longitude": -117.2711481
+    },
+    "SONOMA": {
+        "latitude": 38.291859,
+        "longitude": -122.4580356
+    },
+    "SONORA": {
+        "latitude": 29.2972247,
+        "longitude": -110.3308814
+    },
+    "SOUTH GATE": {
+        "latitude": 33.954737,
+        "longitude": -118.2120161
+    },
+    "SOUTH PASA": {
+        "latitude": 34.1161196,
+        "longitude": -118.1503488
+    },
+    "SPRING VAL": {
+        "latitude": 36.1080258,
+        "longitude": -115.2450006
+    },
+    "ST. HELENA": {
+        "latitude": -15.9650104,
+        "longitude": -5.7089241
+    },
+    "STOCKTON": {
+        "latitude": 37.9577016,
+        "longitude": -121.2907796
+    },
+    "STUDIO CIT": {
+        "latitude": 34.1435864,
+        "longitude": -118.3952727
+    },
+    "SUISUNCITY": {
+        "latitude": 38.2382474,
+        "longitude": -122.040244
+    },
+    "SUN VALLEY": {
+        "latitude": 43.6971294,
+        "longitude": -114.3517172
+    },
+    "SUNLAND": {
+        "latitude": 34.2596694,
+        "longitude": -118.3114218
+    },
+    "SUNNYVALE": {
+        "latitude": 37.36883,
+        "longitude": -122.0363496
+    },
+    "SYLMAR": {
+        "latitude": 34.2994874,
+        "longitude": -118.4588292
+    },
+    "TARZANA": {
+        "latitude": 34.1722605,
+        "longitude": -118.5447573
+    },
+    "TEHACHAPI": {
+        "latitude": 35.1321877,
+        "longitude": -118.4489739
+    },
+    "TEMECULA": {
+        "latitude": 33.4934243,
+        "longitude": -117.1488156
+    },
+    "TEMPLE CIT": {
+        "latitude": 34.1072305,
+        "longitude": -118.0578456
+    },
+    "THOUSAND O": {
+        "latitude": 34.1761133,
+        "longitude": -118.8487793
+    },
+    "TIBURON": {
+        "latitude": 37.8735377,
+        "longitude": -122.4566392
+    },
+    "TOLUCA LAK": {
+        "latitude": 34.1522225,
+        "longitude": -118.3614667
+    },
+    "TOPANGA": {
+        "latitude": 34.0919452,
+        "longitude": -118.6021321
+    },
+    "TORRANCE": {
+        "latitude": 33.8358492,
+        "longitude": -118.3406288
+    },
+    "TRABUCO CA": {
+        "latitude": 33.659651,
+        "longitude": -117.590403
+    },
+    "TRACY": {
+        "latitude": 37.7395818,
+        "longitude": -121.4260018
+    },
+    "TUJUNGA": {
+        "latitude": 34.2464465,
+        "longitude": -118.2761177
+    },
+    "TURLOCK": {
+        "latitude": 37.4945743,
+        "longitude": -120.8459786
+    },
+    "TUSTIN": {
+        "latitude": 33.7420005,
+        "longitude": -117.8236391
+    },
+    "TWENTYNINE": {
+        "latitude": 34.1355582,
+        "longitude": -116.0541689
+    },
+    "UKIAH": {
+        "latitude": 39.1501709,
+        "longitude": -123.2077831
+    },
+    "UNION CITY": {
+        "latitude": 37.5933562,
+        "longitude": -122.0438609
+    },
+    "VACAVILLE": {
+        "latitude": 38.3565773,
+        "longitude": -121.9877444
+    },
+    "VALENCIA": {
+        "latitude": 39.4738338,
+        "longitude": -0.3756348
+    },
+    "VALLEJO": {
+        "latitude": 38.1040864,
+        "longitude": -122.2566367
+    },
+    "VALLEY CEN": {
+        "latitude": 33.2183701,
+        "longitude": -117.0341967
+    },
+    "VALLEY VIL": {
+        "latitude": 34.1648781,
+        "longitude": -118.3965123
+    },
+    "VAN NUYS": {
+        "latitude": 34.2012166,
+        "longitude": -118.466222
+    },
+    "VENICE": {
+        "latitude": 45.440379,
+        "longitude": 12.3159547
+    },
+    "VENTURA": {
+        "latitude": 34.2804923,
+        "longitude": -119.2945199
+    },
+    "VICTORVILL": {
+        "latitude": 34.5362184,
+        "longitude": -117.2927641
+    },
+    "VISALIA": {
+        "latitude": 36.3301329,
+        "longitude": -119.2966367
+    },
+    "WALNUTCREK": {
+        "latitude": 37.9100783,
+        "longitude": -122.0651819
+    },
+    "WATSONVILL": {
+        "latitude": 36.910231,
+        "longitude": -121.7568946
+    },
+    "WEST HOLLY": {
+        "latitude": 34.0900091,
+        "longitude": -118.3617443
+    },
+    "WESTCOVINA": {
+        "latitude": 34.0686208,
+        "longitude": -117.9389526
+    },
+    "WESTLAKE V": {
+        "latitude": 34.1466467,
+        "longitude": -118.8073729
+    },
+    "WESTMINSTE": {
+        "latitude": 51.4974948,
+        "longitude": -0.1356583
+    },
+    "WHITTIER": {
+        "latitude": 33.9791793,
+        "longitude": -118.032844
+    },
+    "WILDOMAR": {
+        "latitude": 33.5989126,
+        "longitude": -117.2800372
+    },
+    "WILLITS": {
+        "latitude": 39.4096079,
+        "longitude": -123.3555656
+    },
+    "WILMINGTON": {
+        "latitude": 34.2103894,
+        "longitude": -77.8868117
+    },
+    "WINNETKA": {
+        "latitude": 42.10808340000001,
+        "longitude": -87.735895
+    },
+    "WINTERS": {
+        "latitude": 38.5249065,
+        "longitude": -121.9708017
+    },
+    "WOODLAND H": {
+        "latitude": 34.1685035,
+        "longitude": -118.6058267
+    },
+    "WRIGHTWOOD": {
+        "latitude": 34.3608341,
+        "longitude": -117.6333884
+    },
+    "YORBA LIND": {
+        "latitude": 33.88850350000001,
+        "longitude": -117.8132571
+    },
+    "YUBA CITY": {
+        "latitude": 39.1406607,
+        "longitude": -121.6177394
+    },
+    "YUCAIPA": {
+        "latitude": 34.033625,
+        "longitude": -117.0430865
+    },
+    "YUCCA VALL": {
+        "latitude": 34.1141743,
+        "longitude": -116.432235
+    }
+}

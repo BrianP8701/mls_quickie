@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mls-data-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Brian Przezdziecki <brianp8701@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+numpy = "^2.1.1"
+geopy = "^2.4.1"
+scikit-learn = "^1.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

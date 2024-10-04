@@ -1,0 +1,7 @@
+data/
+.DS_STORE
+combined_data.csv
+.ipynb_checkpoints/
+.env
+cleaned_data.csv
+mls_lat_long_north.csv

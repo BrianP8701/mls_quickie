@@ -1,0 +1,10 @@
+<script type="module">
+    import { initializeMap } from './mapComponent.js';
+
+    // Load JSON data
+    fetch('./markers.json')
+        .then(response => response.json())
+        .then(markers => {
+            initializeMap('map1', [36.511157925827625, -120.43819693389501], 10, markers);
+        });
+</script>

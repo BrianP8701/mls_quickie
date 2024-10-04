@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>
+        L_NO_TOUCH = false;
+        L_DISABLE_3D = false;
+    </script>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>
+        #map_60bda8d36108fd84617a746c1c39f5f8 {
+            position: relative;
+            width: 100.0%;
+            height: 100.0%;
+            left: 0.0%;
+            top: 0.0%;
+        }
+        .leaflet-container { font-size: 1rem; }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <script type="module" src="mapComponent.js"></script>
+</head>
+<body>
+    <template id="map-template">
+        <div class="map-container" style="width: 100%; height: 500px;"></div>
+    </template>
+
+    <div id="map1"></div>
+    <div id="map2"></div>
+
+    <script type="module">
+        import { initializeMap } from './mapComponent.js';
+
+        function createMap(containerId, center, zoom, markers) {
+            const template = document.getElementById('map-template');
+            const clone = document.importNode(template.content, true);
+            document.getElementById(containerId).appendChild(clone);
+
+            initializeMap(containerId, center, zoom, markers);
+        }
+
+        // Example usage
+        createMap('map1', [36.511157925827625, -120.43819693389501], 10, [
+            { position: [36.778261, -119.4179324], options: { color: 'red', radius: 5 } },
+            { position: [37.7749, -122.4194], options: { color: 'blue', radius: 5 } }
+        ]);
+
+        createMap('map2', [37.7749, -122.4194], 12, [
+            { position: [37.7749, -122.4194], options: { color: 'green', radius: 5 } }
+        ]);
+    </script>
+</body>
+</html>
