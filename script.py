@@ -22,6 +22,7 @@ import matplotlib.pyplot as plt
 from time import sleep
 import math
 from pydantic import BaseModel
+import csv
 
 load_dotenv()
 google_places_api_key = os.getenv('GOOGLE_PLACES_API_KEY')
@@ -641,6 +642,81 @@ def save_mls_lat_long(mls_file_path: str, mls_data_path: str, api_key: str, outp
             
             # Sleep to respect the rate limit
             time.sleep(60 / (rate_limit / batch_size))
+
+def get_address_strings_2(mls_data_path: str) -> dict:
+    """
+    Get a dictionary of address strings for all MLS Nos in the dataset.
+    
+    :param mls_data_path: Path to the CSV file containing MLS data.
+    :return: Dictionary with MLS No as keys and address strings as values.
+    """
+    try:
+        df = pd.read_csv(mls_data_path)
+        if not isinstance(df, pd.DataFrame):
+            raise ValueError("The loaded data is not a DataFrame.")
+        
+        address_dict = {}
+        for _, row in df.iterrows():
+            unit = row['Unit'] if pd.notna(row['Unit']) else ''
+            address_string = f"{row['Address']}, {unit}, {row['City']}, CA".replace(', ,', ',')
+            address_dict[row['MLS No']] = address_string
+        return address_dict
+    except Exception as e:
+        print(f"Error reading MLS data from {mls_data_path}: {e}")
+        return {}
+
+def update_mls_lat_long(clusters_file_path: str, mls_data_path: str, api_key: str, lat_long_csv: str):
+    """
+    Update the latitude and longitude for each MLS No in the first cluster of the clusters JSON file and overwrite in the CSV file.
+    
+    :param clusters_file_path: Path to the JSON file containing MLS No clusters.
+    :param mls_data_path: Path to the CSV file containing MLS data.
+    :param api_key: Your Google Places API key.
+    :param lat_long_csv: Path to the CSV file containing existing MLS No latitude and longitude data.
+    """
+    # Load MLS clusters from JSON file
+    with open(clusters_file_path, 'r') as file:
+        mls_clusters = json.load(file)
+    
+    # Process only the first cluster
+    if not mls_clusters:
+        print("No clusters found in the file.")
+        return
+    
+    first_cluster = mls_clusters[0]
+    
+    # Get address strings for MLS numbers
+    address_dict = get_address_strings_2(mls_data_path)
+    if not address_dict:
+        print("Failed to get address strings. Exiting.")
+        return
+    
+    # Read existing MLS No lat/long data from the CSV file
+    lat_long_data = {}
+    with open(lat_long_csv, 'r') as csv_file:
+        reader = csv.DictReader(csv_file)
+        for row in reader:
+            lat_long_data[row['MLS No']] = {'lat': row['Latitude'], 'lng': row['Longitude']}
+    
+    # Update lat/long data for MLS numbers in the first cluster
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_mls = {executor.submit(get_lat_long, address_dict.get(mls_no), api_key): mls_no for mls_no in first_cluster if address_dict.get(mls_no)}
+        
+        for future in as_completed(future_to_mls):
+            mls_no = future_to_mls[future]
+            try:
+                lat_long = future.result()
+                lat_long_data[mls_no] = {'lat': lat_long['lat'], 'lng': lat_long['lng']}
+                print(f"Updated {mls_no} with lat: {lat_long['lat']}, lng: {lat_long['lng']}")
+            except Exception as e:
+                print(f"Error updating MLS No {mls_no}: {e}")
+    
+    # Write updated lat/long data back to the CSV file
+    with open(lat_long_csv, 'w', newline='') as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=['MLS No', 'Latitude', 'Longitude'])
+        writer.writeheader()
+        for mls_no, lat_long in lat_long_data.items():
+            writer.writerow({'MLS No': mls_no, 'Latitude': lat_long['lat'], 'Longitude': lat_long['lng']})
 
 def dedupe_by_first_column(file_path: str, output_file: str):
     """
@@ -1393,7 +1469,8 @@ def generate_markers_json(mls_lat_long_file: str, top_clusters_file: str, output
         if cluster:
             first_mls_no = cluster[0]
             first_row = df[df['MLS No'] == first_mls_no]
-            text_color = 'black' if cluster_color in ['white', 'lightgray', 'beige', 'lightblue', 'lightgreen'] else 'white'
+            # Ensure text color is black for yellow
+            text_color = 'black' if cluster_color in ['white', 'lightgray', 'beige', 'lightblue', 'lightgreen', 'yellow'] else 'white'
             markers.append({
                 "position": [first_row['Latitude'].values[0], first_row['Longitude'].values[0]],
                 "options": {
@@ -2785,6 +2862,8 @@ def get_place_details(place_id: str, api_key: str) -> dict:
 
 # analyze_sell_prices('top_50_clusters.json', 'cleaned_data.csv', 'results/price_spreads_top_50.txt')
 
-# generate_markers_json('lat_long.csv', 'top_50_clusters.json', 'markers.json')
+generate_markers_json('lat_long.csv', 'top_50_clusters.json', 'results/markers.json')
 
-get_neighborhood_details('top_50_clusters.json', 'cleaned_data.csv', google_places_api_key, 'results/neighborhood_details.json', 'results/neighborhoods.json')
+# get_neighborhood_details('top_50_clusters.json', 'cleaned_data.csv', google_places_api_key, 'results/neighborhood_details.json', 'results/neighborhoods.json')
+
+# update_mls_lat_long('top_50_clusters.json', 'cleaned_data.csv', google_places_api_key, 'mls_lat_long.csv')
