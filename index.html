@@ -27,10 +27,13 @@
                 <p>The goal, as Keith says, is to "find the neighborhood (or two) with the largest spread and just focus on those two neighborhoods and go buy ‘em all."</p>
                 <p><strong>Simplified Plan:</strong></p>
                 <ol>
-                    <li>Geographical Clustering by lat/long</li>
-                    <li>Attribute Clustering blind to price</li>
-                    <li>Calculate price spread of each cluster</li>
-                    <li>Rank the clusters by price spread</li>
+                    <p><strong>Clustering:</strong> We created clusters by examining two main factors:</p>
+                    <ul>
+                        <li><strong>Latitude and Longitude:</strong> To group properties geographically.</li>
+                        <li><strong>Lot Square Footage:</strong> To ensure properties within a cluster are similar in size. This is crucial because calculating price spreads over properties with vastly different lot sizes can be misleading. We used a 15% range for lot square footage in our clustering.</li>
+                    </ul>
+                    <p><strong>Price Spread Calculation:</strong> We calculated the price spread using a specific equation to identify clusters with the greatest potential for profit.</p>
+                    <p>Feel free to explore the map, where you can move around and zoom in and out to see the clusters. For each cluster, you can download the original CSV data if you want to dive deeper. If you have any questions or need further assistance, please reach out to me at 929-400-6970.</p>
                 </ol>
             </div>
         </div>
